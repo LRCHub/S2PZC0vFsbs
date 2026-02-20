@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "月に向かって撃て (TVアニメver.)",
+  "base_artist": "星街すいせい",
+  "createdAt": "2026-02-20T01:57:15.444887Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "月に向かって撃て (TVアニメver.)",
+      "artist": "星街すいせい",
+      "has_synced": false,
+      "path": "select/pl_01_月に向かって撃て_(TVアニメver.)_星街すいせい.txt"
+    }
+  ]
+}
